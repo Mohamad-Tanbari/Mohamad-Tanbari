@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<p>Hi there! I'm Mohamad, a freshman in high school who's obsessed with all things computers. Ever since I was young, I've been fascinated with the power of technology and how it can change the world. I'm constantly seeking out new challenges to push my skills to the limit, and I love nothing more than diving into complex coding projects.</p>
+<p>I code n' stuff</p>
 
 <h2>✍ Programming Languages</h2>
 <p>
