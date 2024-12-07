@@ -26,7 +26,7 @@
 </p>
 
 <h2>🏅 Certifications and Awards</h2>
-<a href="https://aws.amazon.com/training/awsacademy/" target="_blank"><img src="./images/aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Academy Educator" height="100" /></a>
+<a href="https://aws.amazon.com/training/awsacademy/" target="_blank"><img src="./images/aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Cloud Foundations Certification" height="100" /></a>
 
 <h3>📊 Stats</h3>
 <p align="center" >
