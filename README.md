@@ -25,9 +25,6 @@
   <img src="https://camo.githubusercontent.com/f6d50128cb007f85916b7a899da5d94f654dce35a37331c8d28573aef46f4274/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465">
 </p>
 
-<h2>🏅 Certifications and Awards</h2>
-<a href="https://aws.amazon.com/training/awsacademy/" target="_blank"><img src="./images/aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Cloud Foundations Certification" height="100" /></a>
-
 <h3>📊 Stats</h3>
 <p align="center" >
   <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohamad-Tanbari&theme=radical>
